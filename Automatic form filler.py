@@ -10,8 +10,8 @@ time.sleep(5)
 
 form_data = [
     {'name': 'Yashu', 'fear': 'Spiders', 'source': 'wand', 'robocop': 4, 'comments': 'No comment.'},
-    {'name': 'Alice Smith', 'fear': 'Heights', 'source': 'amulet', 'robocop': 3, 'comments': 'Please be nice.'},
-    {'name': 'Bob Johnson', 'fear': 'Clowns', 'source': 'crystal ball', 'robocop': 5, 'comments': 'No clowns please!'},
+    {'name': 'Sammi', 'fear': 'Heights', 'source': 'amulet', 'robocop': 3, 'comments': 'Please be nice.'},
+    {'name': 'Ruby', 'fear': 'Clowns', 'source': 'crystal ball', 'robocop': 5, 'comments': 'No clowns please!'},
 ]
 
 for person in form_data:
